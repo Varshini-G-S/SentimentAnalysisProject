@@ -1,0 +1,17 @@
+Text,Sentiment
+"I love this product",Positive
+"This is the worst experience ever",Negative
+"It was okay, not great",Neutral
+"Absolutely fantastic performance",Positive
+"I hate the delay in service",Negative
+"The movie was good but a bit long",Neutral
+"Best purchase I’ve ever made",Positive
+"Not worth the money",Negative
+"The quality exceeded my expectations",Positive
+"The support team was unhelpful",Negative
+"It's an average experience",Neutral
+"Totally worth every penny",Positive
+"The app keeps crashing",Negative
+"Delivery was on time",Positive
+"Service could be improved",Neutral
+
